@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="_00_00_00_000">00:00:00:000</string>
+    <string name="music">music</string>
+    <string name="stop">stop</string>
+    <string name="start">start</string>
+    <string name="_0_0">0 : 0</string>
+    <string name="_00_00">00 : 00</string>
+</resources>
